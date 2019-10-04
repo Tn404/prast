@@ -27,8 +27,8 @@ Class __shutdown57{
 "
      
 
- 	+-------------- [ SMS BOOMBER MULTI API ]
- 	  +-------------------------------------------[ 2018 ]
+ 	+-------------- [ SMS BOOMBER TN.404 ]
+ 	  +-------------------------------------------[ Oktober 2k19 ]
 ";
 	}
 	public function __Boom($url,$data)
