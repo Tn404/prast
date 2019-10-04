@@ -5,7 +5,7 @@ print '\x1b[1;32mSilahkan Login '
 import os, sys
 
 def wa():
-    os.system('xdg-open https://api.whatsapp.com/send?phone=6283847277532&text=Assalamualaikum')
+    os.system('xdg-open https://api.whatsapp.com/send?phone=6289504315559&text=Assalamualaikum')
 
 
 def restart():
@@ -16,7 +16,7 @@ def restart():
 user = raw_input('ID: ')
 import getpass
 sandi = raw_input('Password: ')
-if sandi == 'Buanglah sampah pada tempatnya' and user == 'Hunters-master':
+if sandi == 'Tn.404' and user == 'Prast.3526':
     print 'Anda Telah Login'
     sys.exit
 else:
@@ -56,7 +56,7 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
 
-logo = " \x1b[1;97m█████████\n \x1b[1;97m█▄█████▄█         \x1b[1;96m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●\n \x1b[1;97m█ \x1b[1;91m▼▼▼▼▼  \x1b[1;97m- _ --_-- \x1b[1;92m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ \n \x1b[1;97m█  \x1b[1;97m  \x1b[1;97m_-_-- -_ --__ \x1b[1;92m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗\n \x1b[1;97m█ \x1b[1;91m▲▲▲▲▲ \x1b[1;97m--  - _ -- \x1b[1;92m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝  \x1b[1;93mVIP.VPRO\n \x1b[1;97m█████████         \x1b[1;96m«==========✧==========»\n \x1b[1;97m ██ ██\n \x1b[1;97m╔══════════════════════════════════════════════════╗\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mReCode  \x1b[1;91m: \x1b[1;96m Hunters Gaming  \x1b[1;97m                   ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mGitHub  \x1b[1;91m: \x1b[1;92m \x1b[92mhttps://github.com/Mr_Hunters\x1b[ \x1b[1;97m      ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mWA      \x1b[1;91m:  \x1b[1;92\x1b[92m083847277532\x1b[     \x1b[1;97m                    ║   \n \x1b[1;97m╚══════════════════════════════════════════════════╝"  '\n[*] Silahkan Login Di Opera Mini Agar Tidak Check Point\n'
+logo = " \x1b[1;97m█████████\n \x1b[1;97m█▄█████▄█         \x1b[1;96m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●\n \x1b[1;97m█ \x1b[1;91m▼▼▼▼▼  \x1b[1;97m- _ --_-- \x1b[1;92m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ \n \x1b[1;97m█  \x1b[1;97m  \x1b[1;97m_-_-- -_ --__ \x1b[1;92m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗\n \x1b[1;97m█ \x1b[1;91m▲▲▲▲▲ \x1b[1;97m--  - _ -- \x1b[1;92m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝  \x1b[1;93mVIP.VPRO\n \x1b[1;97m█████████         \x1b[1;96m«==========✧==========»\n \x1b[1;97m ██ ██\n \x1b[1;97m╔══════════════════════════════════════════════════╗\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mReCode  \x1b[1;91m: \x1b[1;96m Tn.404\x1b[1;97m                   ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mGitHub  \x1b[1;91m: \x1b[1;92m \x1b[92mhttps://github.com/Tn404\x1b[ \x1b[1;97m      ║\n \x1b[1;97m║ \x1b[1;93m*  \x1b[1;97mWA      \x1b[1;91m:  \x1b[1;92\x1b[92m089504315559\x1b[     \x1b[1;97m                    ║   \n \x1b[1;97m╚══════════════════════════════════════════════════╝"  '\n[*] Terimakasih telah menggunakan script ini'
 
 def tik():
     titik = [
