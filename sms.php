@@ -75,9 +75,9 @@ Class __shutdown57{
 			$post = str_replace("{shutdown57_nomerHP}",$read,self::$API_URL[$api]['postdata']);
 			if(preg_match("/".self::$API_URL[$api]['success']."/",self::__Boom(self::$API_URL[$api]['url'],$post)))
 			{
-				echo "$i SUCCESS ".self::__rapi($api,10," ")." :: $read xnonhack ".PHP_EOL;
+				echo "$i SUCCESS ".self::__rapi($api,10," ")." :: $read TN.404".PHP_EOL;
 			}else{
-				echo "$i FAILED ".self::__rapi($api,10," ")." :: $read xnonhack".PHP_EOL;
+				echo "$i FAILED ".self::__rapi($api,10," ")." :: $read TN.404".PHP_EOL;
 			}
 			sleep($delay);
 			}
@@ -102,9 +102,9 @@ Class __shutdown57{
 					$post = str_replace("{shutdown57_nomerHP}",$nmr,self::$API_URL[$api]['postdata']);
 					if(preg_match("/".self::$API_URL[$api]['success']."/",self::__Boom(self::$API_URL[$api]['url'],$post)))
 					{
-						echo "$i. SUCCESS ".self::__rapi($api,10," ")." :: $nmr xnonhack ".PHP_EOL;
+						echo "$i. SUCCESS ".self::__rapi($api,10," ")." :: $nmr TN.404".PHP_EOL;
 					}else{
-						echo "$i. FAILED  ".self::__rapi($api,10," ")." :: $nmr xnonhack".PHP_EOL;
+						echo "$i. FAILED  ".self::__rapi($api,10," ")." :: $nmr TN.404".PHP_EOL;
 					}
 					sleep($delay);
 			}
